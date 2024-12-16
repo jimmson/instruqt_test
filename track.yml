@@ -1,14 +1,17 @@
-instructors: [
-
-]
 slug: new-slugh
 id: 433v4g86oioa
 revision: 1
 title: Jimmt VCS
+description: |-
+  This is a new description d
 
+  Hello
 icon: ""
 tags: []
 owner: instruqt
+developers:
+- james@instruqt.com
+instructors: []
 idle_timeout: 300
 timelimit: 1200
 lab_config:
@@ -18,9 +21,3 @@ lab_config:
   feedback_recap_enabled: true
   feedback_tab_enabled: false
   loadingMessages: true
-developers:
-- blah@instruqt.com
-
-
-description: |
-This is different
