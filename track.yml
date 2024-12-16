@@ -1,19 +1,20 @@
-slug: jimmy-vcs
+slug: new-slugh
 id: 433v4g86oioa
 revision: 1
-title: Jimmt VCS git
+title: Jimmt VCS
 description: ""
 icon: ""
 tags: []
 owner: instruqt
 developers:
-- tommy@blah.com
-- adfa@hello
+- james@instruqt.com
 instructors: []
 idle_timeout: 300
 timelimit: 1200
 lab_config:
   extend_ttl: 0
+  sidebar_enabled: true
+  hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
   loadingMessages: true
