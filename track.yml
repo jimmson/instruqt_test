@@ -9,8 +9,8 @@ owner: instruqt
 developers:
 - james@instruqt.com
 instructors:
-- victor+retool@instruqt.com
 - himeh91789@kimdyn.com
+- victor+retool@instruqt.com
 idle_timeout: 300
 timelimit: 1200
 lab_config:
